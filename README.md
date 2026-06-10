@@ -16,7 +16,7 @@ The brand is inspired by family, connection, heritage, and the beauty of gifting
 
 ## Featured Product
 
-![Product Image](product-image.png)
+![Product Image](fumilia-sp-box-d1.png)
 
 ---
 
