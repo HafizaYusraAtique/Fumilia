@@ -10,6 +10,14 @@ Fumilia is a fragrance and lifestyle brand created to turn memories, emotions, a
 
 The brand is inspired by family, connection, heritage, and the beauty of gifting something personal and memorable.
 
+## Brand Logo
+
+![Fumilia Logo](Fumilia-logo.png)
+
+## Featured Product
+
+![Product Image](product-image.png)
+
 ---
 
 ## Brand Tagline
